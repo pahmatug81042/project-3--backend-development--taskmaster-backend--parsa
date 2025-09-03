@@ -85,10 +85,10 @@ This project emphasized **clean architecture, DRY principles, and secure coding 
 1. **Clone the repository**  
    
    git clone <repo-url>
+   
    cd taskmaster-backend
-   npm install
 
-2. **Install dependencies**
+3. **Install dependencies**
    
    npm install
 
