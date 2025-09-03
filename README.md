@@ -83,20 +83,25 @@ This project emphasized **clean architecture, DRY principles, and secure coding 
 ## High-Level Project Setup  
 
 1. **Clone the repository**  
-   ```bash
+   
    git clone <repo-url>
    cd taskmaster-backend
    npm install
 
 2. **Install dependencies**
+   
    npm install
 
-3. **Configure environment variables in a .env file**
+4. **Configure environment variables in a .env file**
+   
    PORT=5000
+   
    MONGO_URI=your_mongo_connection_string
+   
    JWT_SECRET=your_secret_key
 
-4. **Run the development server**
+6. **Run the development server**
+   
    npm run dev
 
-5. **Test the API using Postman, Insomnia, or any API client**
+7. **Test the API using Postman, Insomnia, or any API client**
